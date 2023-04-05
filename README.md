@@ -11,6 +11,5 @@ Anualised Sharpe    4.682447
 Max Drawdown        -0.143451
 MaxDD Duration      17.000000
 ```
-
 ![image](https://user-images.githubusercontent.com/74561424/230089315-37536229-323e-47f3-9e95-9fdddfb8845f.png)
 
