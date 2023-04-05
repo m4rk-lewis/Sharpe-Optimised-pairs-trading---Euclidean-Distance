@@ -2,6 +2,7 @@
 ```
 Training dates      2017–01–01 to 2019–06–30   (30 months)
 Test dates          2019–07–01 to 2019–12–31   (6 months)
+Universe            200 largest cap S&P500 stocks
 Leverage            17.97 : 1
 Best_thresh         2.2
 Best_sharpe_filter  1.6
