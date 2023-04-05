@@ -1,4 +1,4 @@
-# Sharpe-Optimised-pairs-trading---Euclidean-Distance
+# Sharpe-optimised-pairs-trading---Euclidean-Distance
 ```
 Training dates      2017–01–01 to 2019–06–30   (30 months)
 Test dates          2019–07–01 to 2019–12–31   (6 months)
