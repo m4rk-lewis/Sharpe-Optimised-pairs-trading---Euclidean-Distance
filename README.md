@@ -7,7 +7,7 @@ best_thresh         2.2
 best_sharpe_filter  1.6
 Total return        2.354352
 APR                 9.834078
-Anualised Sharpe    4.682447
+Annualised Sharpe   4.682447
 Max Drawdown        -0.143451
 MaxDD Duration      17.000000
 ```
